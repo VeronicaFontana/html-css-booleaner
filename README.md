@@ -1,5 +1,7 @@
 # html-css-booleaner
 
+**Consegna**
+
 Riproducete il layout dell’immagine allegata utilizzando ciò che abbiamo visto stamattina aiutandovi con le slide, video e documentazione.
 Come l’esercizio scorso e d’ora in avanti sempre, faremo questo:
 1. Create una nuova repo github per l’esercizio di oggi, con il nome indicato come nome repo e clonatela tramite vscode scegliendo una cartella sul vostro pc;
