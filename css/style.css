@@ -1,19 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+}
 /*HEAD*/
-head {
+header {
   background-image: url("../img/pattern.png");
+  background-size: 300px;
+  background-color: rgb(68, 140, 209);
+  height: 100px;
+  
 }
 
 svg {
-  width: 200px;
-  height: 150px;
-  background-color: transparent;
+  width: 150px; 
+  height: 120px;
+  margin: 10px; 
 }
 
 
 
 /* MAIN*/
+main {
+  margin: 10px;
+}
+
 .Author, .Data {
   color: gray;
+}
+
+.Underimage {
+  font-size: smaller;
 }
 
 thead {
@@ -25,9 +41,16 @@ tfoot, .Riga1 {
   background-color: rgb(171, 213, 227);
 }
 
+/* .main-text, table, ul {
+  margin-top: 20px;
+} */
 
 
 /*FOOTER*/
+h4 {
+  color: grey;
+}
+
 .monitor, .graph {
   background-repeat: no-repeat;
   background-size: cover;
