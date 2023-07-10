@@ -11,3 +11,19 @@
 
 
 /*FOOTER*/
+.monitor, .graph {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 350px;
+  height: 200px;
+  text-align: top left;
+  color: white;
+}
+
+.monitor {
+  background-image: url("../img/monitor.jpg");
+}
+
+.graph {
+  background-image: url("../img/graph.jpg");
+}
