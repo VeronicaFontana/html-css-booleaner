@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/*HEAD*/
+header {
+  background-image: url("../img/pattern.png");
+  background-size: 300px;
+  background-color: rgb(68, 140, 209);
+  height: 100px;
+}
+
+svg {
+  width: 150px; 
+  height: 120px;
+  margin: 10px; 
+}
+
+
+/* MAIN*/
+main, footer {
+  margin: 30px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 7px;
+  margin-left: 0;
+}
+
+thead {
+  background-color: rgb(8, 165, 227);
+  color: white;
+}
+
+tfoot, .top {
+  background-color: rgb(171, 213, 227);
+}
+
+.Author, .Data {
+  color: gray;
+  margin-block: 5px;
+  padding: 0;
+}
+
+.under-image {
+  font-size: smaller;
+}
+
+table {
+  border-spacing: 0;
+}
+
+tbody.tr {
+  height: 50px;
+}
+
+th{
+  width: 600px;
+  text-align: left;
+}
+
+/*FOOTER*/
+h4 {
+  color: grey;
+  margin-bottom: 0;
+}
+
+.monitor, .graph {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 350px;
+  height: 200px;
+  text-align: top left;
+  color: white;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.monitor {
+  background-image: url("../img/monitor.jpg");
+  margin-bottom: 10px;
+}
+
+.graph {
+  background-image: url("../img/graph.jpg");
+}
