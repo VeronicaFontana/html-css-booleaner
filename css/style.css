@@ -11,10 +11,11 @@ header {
   height: 100px;
 }
 
-svg {
+.logo {
   width: 150px; 
-  height: 120px;
-  margin: 10px; 
+  height: 120px; 
+  padding-top: 50px;
+  padding-left: 20px;
 }
 
 
